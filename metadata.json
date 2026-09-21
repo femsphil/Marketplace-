@@ -1,0 +1,6 @@
+{
+  "name": "StrucTrade Nigeria",
+  "description": "Nigeria's specialized marketplace for property, vehicles, construction equipment, materials, and engineering services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
